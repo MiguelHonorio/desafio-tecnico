@@ -6,8 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class VotingControlApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(VotingControlApplication.class, args);
-	}
+    public static void main(String[] args) {
+
+        SpringApplication.run(VotingControlApplication.class, args);
+    }
 
 }
