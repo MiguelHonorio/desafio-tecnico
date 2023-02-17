@@ -1,2 +1,13 @@
-# desafios-tecnico
-Testes, avaliações e outros
+# Desafios Técnico 
+
+### Objetivo
+...
+
+### Acessos
+...
+
+### Banco de Dados
+...
+
+
+
