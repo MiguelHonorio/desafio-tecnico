@@ -19,6 +19,7 @@ public class VotingController {
 
     @PostMapping
     public Usuario create(@RequestBody Usuario usuario) {
+
         return this.votingControlService.create(usuario);
     }
 
